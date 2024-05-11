@@ -1,0 +1,11 @@
+
+		img.view_productt{
+			border:5px solid black;
+			margin:20px 0px 0px 150px;
+			border-radius:20px;
+		}
+
+		img.view_productt:hover{
+			background-color:#00b300;
+		}
+	

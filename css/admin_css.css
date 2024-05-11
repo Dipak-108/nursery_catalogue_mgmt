@@ -1,0 +1,27 @@
+.header{
+   background-color:#50A060; 
+   padding:1% ;
+   display: flex;
+   justify-content: space-between;
+}
+
+.logo {
+   
+   margin-left: 2em;
+   height: auto ;
+   width: 100px;
+   border-radius: 20px;
+ }
+
+ .logo{
+  justify-content: left;
+
+ }
+ .form{
+   padding: 2em;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border:none;
+   
+ }
