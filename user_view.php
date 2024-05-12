@@ -6,7 +6,7 @@ include("connection.php");
 $query = "SELECT id, name, qty, price, image FROM products";
 $result = mysqli_query($mysqli, $query);
 
-    // Check if the user is logged in
+    // Checking if the user is logged in
     $isLoggedIn = isset($_SESSION['valid']);
 
 

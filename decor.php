@@ -42,7 +42,7 @@ $result = mysqli_query($mysqli, $query);
 
 /* Style for each product card */
 .product-card {
-    flex: 0 0 calc(33.33% - 20px); /* Adjust the width as needed */
+    flex: 0 0 calc(33.33% - 20px); 
     margin-bottom: 20px;
     padding: 10px;
     border: 1px solid #ccc;
